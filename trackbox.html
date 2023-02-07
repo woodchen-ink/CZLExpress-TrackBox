@@ -1,3 +1,16 @@
+<html>
+	<head>
+		<!-- 引入样式 -->
+		<link rel="stylesheet" href="/css/index2.min.css" />
+		<!-- 引入组件库 -->
+<script
+			src="/js/vue.min.js"
+			type="text/javascript"
+			charset="utf-8"
+		></script>
+		<script src="/js/index2.js"></script>
+	</head>
+	<body>
 <div id="trackindexbox" style="margin:auto;width:auto;padding:20px;">
 		<h2 style="color:white;">追踪您的货物</h2>
 			<el-form :model="ruleForm" :rules="rules" ref="ruleForm1" label-width="auto" hide-required-asterisk="true">
@@ -12,3 +25,32 @@
 			</el-form>
 			<el-link type="primary" href="https://www.czl.net/track" target="_blank">查询多个单号 &gt;</el-link>
 		</div>
+<script
+			src="/js/indexbox.min0.1.js"
+			type="text/javascript"
+			charset="utf-8"
+		></script>
+<style>
+.el-form-item__label {
+			color: black;
+}
+.el-select {
+			width: 100%;
+}
+.select-header-popper {
+			max-width: 300px !important;
+			min-width: 100px !important;
+			/* left: auto !important;
+			right: 0; */
+}
+.select-header-popper.el-select-dropdown__wrap {
+			overflow-y: auto !important;
+}
+	.el-input__inner{
+		height:unset !important;
+	}
+
+</style>
+</body>
+</html>
+
