@@ -1,0 +1,14 @@
+<div id="trackindexbox" style="margin:auto;width:auto;padding:20px;">
+		<h2 style="color:white;">追踪您的货物</h2>
+			<el-form :model="ruleForm" :rules="rules" ref="ruleForm1" label-width="auto" hide-required-asterisk="true">
+				<el-row>
+					<el-col :span="24">
+						<el-form-item prop="danhao">
+							<el-input v-model="ruleForm.danhao" placeholder="输入您的追踪号码">
+								<el-button slot="append" type="primary" @click="jumpUrl" icon="el-icon-search"></el-button>
+						</el-input> </el-form-item></el-col>
+				
+				</el-row>
+			</el-form>
+			<el-link type="primary" href="https://www.czl.net/track" target="_blank">查询多个单号 &gt;</el-link>
+		</div>
