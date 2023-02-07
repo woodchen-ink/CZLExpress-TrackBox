@@ -3,7 +3,8 @@
 
 ### 效果图
 
-![](https://img.cdn.czl.net/i/2023/02/07/175435.webp)
+![image](https://user-images.githubusercontent.com/95951386/217212113-c1e50233-13ef-4ded-adb8-87012a9ec31e.png)
+
 
 ### 使用的框架
 
