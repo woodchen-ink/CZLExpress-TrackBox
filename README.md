@@ -3,11 +3,11 @@
 
 ### 效果图
 
-![](https://img.cdn.czl.net/i/2023/03/08/140648.webp)
+![image](https://user-images.githubusercontent.com/95951386/223633190-bcdf5c9e-0f5c-4fec-95c4-837babc0ac1f.png)
 
 ### 使用例子
 
-![](https://img.cdn.czl.net/i/2023/03/08/140619.webp)
+![image](https://user-images.githubusercontent.com/95951386/223633213-901de0ed-fe2b-4fea-bb4e-c81ce4c34de6.png)
 
 
 ### 使用的框架
