@@ -1,14 +1,18 @@
 # CZL EXPRESS-TrackBox0.1
-轨迹查询嵌入框，CZL Express苍正国际快递所用，可以在任意页面嵌入一个轨迹查询框，输入单号查询后通过get拼接查询链接，跳转到轨迹页面展示结果
+轨迹查询嵌入框，CZL Express苍正国际快递所用，可以在任意页面嵌入一个轨迹查询框，输入单号查询后通过get拼接查询链接，跳转到轨迹页面(**指定前部链接+?query=单号**）展示结果
 
 ### 效果图
 
-![image](https://user-images.githubusercontent.com/95951386/217212113-c1e50233-13ef-4ded-adb8-87012a9ec31e.png)
+![](https://img.cdn.czl.net/i/2023/03/08/140648.webp)
+
+### 使用例子
+
+![](https://img.cdn.czl.net/i/2023/03/08/140619.webp)
 
 
 ### 使用的框架
 
-1. vue
+1. vue 2
 2. element UI
 
 
